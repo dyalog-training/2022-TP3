@@ -10,4 +10,4 @@ This workshop will have a substantial amount of "hands-on" time where you will b
 * Dyalog v18.0 or later – Unicode, 32/64-bit, any supported operating system
 * Tatin client ([installation instructions for Tatin client](https://tatin.dev/Assets/docs/InstallingAndUpdatingTheTatinClient.html))
 * Recommended: your own GitHub account
-
+* Dado ([installation instructions](https://github.com/the-carlisle-group/Dado/wiki/Installation))
